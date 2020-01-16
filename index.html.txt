@@ -1,0 +1,15 @@
+
+<title>lctrt</title>
+<style>
+    body {
+        font-family: sans-serif;
+        background: black;
+        color: #ccc;
+        max-width: 800px;
+    }
+    h1{
+        color: #ddd;
+    }
+</style>
+<h1>lctrt</h1>
+<section><h1 id="eurorack">Eurorack</h1>
